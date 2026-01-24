@@ -24,9 +24,9 @@ Para garantir que o jogo seja instalado e atualizado corretamente, siga estas et
 
 Acompanhe as novidades e atualizações do projeto:
 
-* 🎥 **YouTube**: [Seu Canal Aqui](https://www.youtube.com/@Tutuhvlr)
-* 💜 **Twitch**: [Siga na Twitch](https://www.twitch.tv/tutuhvlr_)
-* 📸 **Instagram**: [Siga no Instagram](https://www.instagram.com/tutuhvlr)
+* 🎥 **YouTube**: [Youtube](https://www.youtube.com/@Tutuhvlr)
+* 💜 **Twitch**: [Twitch](https://www.twitch.tv/tutuhvlr_)
+* 📸 **Instagram**: [Instagram](https://www.instagram.com/tutuhvlr)
 
 ---
 
