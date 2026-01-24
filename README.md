@@ -24,9 +24,9 @@ Para garantir que o jogo seja instalado e atualizado corretamente, siga estas et
 
 Acompanhe as novidades e atualizações do projeto:
 
-* 🎥 **YouTube**: [Seu Canal Aqui](LINK_DO_YOUTUBE)
-* 💜 **Twitch**: [Siga na Twitch](LINK_DA_TWITCH)
-* 📸 **Instagram**: [Siga no Instagram](LINK_DO_INSTAGRAM)
+* 🎥 **YouTube**: [Seu Canal Aqui](https://www.youtube.com/@Tutuhvlr)
+* 💜 **Twitch**: [Siga na Twitch](https://www.twitch.tv/tutuhvlr_)
+* 📸 **Instagram**: [Siga no Instagram](https://www.instagram.com/tutuhvlr)
 
 ---
 
@@ -34,4 +34,4 @@ Acompanhe as novidades e atualizações do projeto:
 
 Clique no botão abaixo para acessar a pasta no Google Drive com todos os arquivos necessários:
 
-[![Download Hytale](https://img.shields.io/badge/DOWNLOAD-GOOGLE_DRIVE-blue?style=for-the-badge&logo=googledrive&logoColor=white)](COLE_O_LINK_DO_GOOGLE_DRIVE_AQUI)
+[![Download Hytale](https://img.shields.io/badge/DOWNLOAD-GOOGLE_DRIVE-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.usercontent.google.com/download?id=14kytEc2EUNpvVx_p3yGRloXEKuP8gVbh&export=download&authuser=0&confirm=t&uuid=a16f9f83-1213-426d-a92b-c68c19e39c5b&at=APcXIO3DC4rIRlYCC5ywej6Vxv4c%3A1769268368188)
