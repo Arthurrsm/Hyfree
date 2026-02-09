@@ -1,6 +1,6 @@
 # 🎮 Hytale Auto-Installer & Updater
 
-Este repositório contém as instruções e o link para o instalador automatizado do Hytale. O script gerencia permissões de administrador, exceções no Windows Defender e suporte a caminhos longos de arquivos.
+Este repositório contém as instruções e o link para o instalador automatizado do Hytale.
 
 ## 🛠️ Como Instalar
 
