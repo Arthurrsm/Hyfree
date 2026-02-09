@@ -15,7 +15,7 @@ Para garantir que o jogo seja instalado e atualizado corretamente, siga estas et
    - Se você já tiver o jogo, o script verificará a versão e atualizará apenas se houver uma nova disponível.
 5. **Finalização:** Atalhos serão criados na sua Área de Trabalho e você poderá escolher seu Nick ao final.
 
-> [!Dica]
+> [!Tip]
 > Conforme novas versões do jogo forem lançadas, atualizaremos os arquivos no link abaixo. Basta baixar e rodar o instalador novamente para atualizar seu jogo!
 
 ---
