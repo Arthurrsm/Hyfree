@@ -15,7 +15,7 @@ Para garantir que o jogo seja instalado e atualizado corretamente, siga estas et
    - Se você já tiver o jogo, o script verificará a versão e atualizará apenas se houver uma nova disponível.
 5. **Finalização:** Atalhos serão criados na sua Área de Trabalho e você poderá escolher seu Nick ao final.
 
-> [!TIP]
+> [!Dica]
 > Conforme novas versões do jogo forem lançadas, atualizaremos os arquivos no link abaixo. Basta baixar e rodar o instalador novamente para atualizar seu jogo!
 
 ---
@@ -31,7 +31,8 @@ Acompanhe as novidades e atualizações do projeto:
 ---
 
 ## 📥 Download do Jogo
+**Ultima atualização: `(08/02/2026)`**
 
 Clique no botão abaixo para acessar a pasta no Google Drive com todos os arquivos necessários:
 
-[![Download Hytale](https://img.shields.io/badge/DOWNLOAD-GOOGLE_DRIVE-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.usercontent.google.com/download?id=14kytEc2EUNpvVx_p3yGRloXEKuP8gVbh&export=download&authuser=0&confirm=t&uuid=a16f9f83-1213-426d-a92b-c68c19e39c5b&at=APcXIO3DC4rIRlYCC5ywej6Vxv4c%3A1769268368188)
+[![Download Hytale](https://img.shields.io/badge/DOWNLOAD-GOOGLE_DRIVE-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.usercontent.google.com/download?id=1gD1D55wYQK7FNLaStSjhfQhELol6j4AC&export=download&authuser=0)
